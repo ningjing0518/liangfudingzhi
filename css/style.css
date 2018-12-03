@@ -1,0 +1,205 @@
+.main{
+    width: 1204px;
+    margin: 0 auto;
+}
+.header{
+    position: relative;
+}
+.header img{
+    float: left;
+}
+.header .header-top{
+    float: left;
+    height: 33px;
+    border-bottom: 1px solid #b3b3b3;
+    position: absolute;
+    top: 0;
+    right: 80px;
+}
+.header .header-top span{
+    font-size: 12px;
+    color: #353535;
+    line-height: 28px;
+}
+.header .header-top i{
+    display: inline-block;
+    vertical-align: middle;
+    width: 21px;
+    height: 29px;
+    background: url("../img/bags.png") no-repeat;
+}
+.header .header-top b{
+    display: inline-block;
+    vertical-align: middle;
+    width:19px ;
+    height: 19px;
+    background: url("../img/message.png") no-repeat;
+}
+.header .header-top em{
+    display: inline-block;
+    vertical-align: middle;
+    width:20px ;
+    height: 19px;
+    background: url("../img/telephone.png") no-repeat;
+}
+.header .header-bot{
+   float: right;
+    margin-top: 40px;
+}
+.header .header-bot h3{
+    display: inline-block;
+}
+.header .header-bot h3 a{
+    font-size: 16px;
+    color: #64b6d9;
+    font-weight: normal;
+    margin-right: 21px;
+}
+.header .header-bot h4{
+    display: inline-block;
+    font-size: 16px;
+    color: #000000;
+    font-weight: normal;
+    margin-right: 21px;
+}
+.header .header-bot p{
+    display: inline-block;
+}
+.adver i{
+    display: inline-block;
+    width: 1204px;
+    height: 373px;
+    background: url("../img/adverti.png") no-repeat;
+}
+.adver {
+    position: relative;
+    margin-top: 10px;
+}
+.adver .dot{
+    position: absolute;
+    left: 512px;
+    bottom: 10px;
+}
+.adver .dot i{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: url("../img/dot.png") no-repeat;
+
+}
+.adver .dot i:hover{
+    cursor: pointer;
+    width: 12px;
+    height: 12px;
+    background: url("../img/redbot.png") no-repeat;
+}
+.adver .right i{
+    display: inline-block;
+    width: 43px;
+    height: 86px;
+    background: url("../img/right.png") no-repeat;
+    position: absolute;
+    right: 0;
+    top: 138px;
+}
+.adver .left i{
+    display: inline-block;
+    width: 43px;
+    height: 86px;
+    background: url("../img/left.png") no-repeat;
+    position: absolute;
+    left: 0;
+    top: 138px;
+}
+.photo{
+    margin: 20px 340px;
+    width: 708px;
+    border-bottom: 1px solid #c1c1c1;
+}
+.photo .border{
+    padding: 13px 0;
+}
+.foot{
+    padding: 27px 54px;
+}
+.foot .left{
+    float: left;
+    height: 109px;
+    border-right: 1px solid #c1c1c1;
+    margin-right: 44px;
+    margin-left: 144px;
+}
+.foot .left img{
+    float: left;
+    margin-right: 44px;
+}
+.foot .cent{
+    float: left;
+    position: relative;
+    margin-right: 44px;
+}
+.foot .cent p{
+    font-size: 14px;
+    color: #181818;
+    position: absolute;
+    left: 100px;
+    bottom: 14px;
+}
+.foot .reght{
+    float: left;
+    position: relative;
+}
+.foot .reght p{
+    font-size: 14px;
+    color: #181818;
+    position: absolute;
+    left: 100px;
+    bottom: 24px;
+}
+.foot .reght .bot{
+    position: absolute;
+    left: 100px;
+    bottom: -4px;
+}
+.foot .reght .bot span{
+    font-size: 14px;
+    color: #43a5cf;
+}
+.foot .reght .bot button{
+    font-size: 12px;
+    color: #181818;
+
+}
+.foot-bot{
+    background-color: #f7f7f7;
+    padding: 15px 55px;
+}
+.foot-bot .left {
+    float: left;
+    margin-left: 48px;
+}
+.foot-bot .left li{
+    float: left;
+    margin-right: 25px;
+
+}
+.foot-bot .left li a{
+    font-size: 12px;
+    color: #505050;
+}
+.foot-bot .right{
+    float: right;
+    margin-right: 55px;
+}
+.foot-bot .right p{
+    display: inline-block;
+    font-size: 12px;
+    color: #505050;
+}
+.foot-bot .right i{
+    float: right;
+    width: 20px;
+    height: 20px;
+    background: url("../img/ques.png") no-repeat;
+    margin-left: 40px;
+}

@@ -1,0 +1,263 @@
+.main{
+    width: 1204px;
+    margin: 0 auto;
+}
+.header{
+    position: relative;
+}
+.header img{
+    float: left;
+}
+.header .header-top{
+    float: left;
+    height: 33px;
+    border-bottom: 1px solid #b3b3b3;
+    position: absolute;
+    top: 0;
+    right: 80px;
+}
+.header .header-top span{
+    font-size: 12px;
+    color: #353535;
+    line-height: 28px;
+}
+.header .header-top i{
+    display: inline-block;
+    vertical-align: middle;
+    width: 21px;
+    height: 29px;
+    background: url("../img/bags.png") no-repeat;
+}
+.header .header-top b{
+    display: inline-block;
+    vertical-align: middle;
+    width:19px ;
+    height: 19px;
+    background: url("../img/message.png") no-repeat;
+}
+.header .header-top em{
+    display: inline-block;
+    vertical-align: middle;
+    width:20px ;
+    height: 19px;
+    background: url("../img/telephone.png") no-repeat;
+}
+.header .header-bot{
+    float: right;
+    margin-top: 40px;
+}
+.header .header-bot h3{
+    display: inline-block;
+}
+.header .header-bot h3 a{
+    font-size: 16px;
+    color: #64b6d9;
+    font-weight: normal;
+    margin-right: 21px;
+}
+.header .header-bot h4{
+    display: inline-block;
+    font-size: 16px;
+    color: #000000;
+    font-weight: normal;
+    margin-right: 21px;
+}
+.header .header-bot p{
+    display: inline-block;
+}
+.gray{
+    width: 100%;
+    background-color: #ebebeb;
+    margin-top: 10px;
+}
+.gray a{
+    font-size: 12px;
+    color: #515151;
+    line-height: 38px;
+}
+.center .left{
+    float: left;
+    width: 79px;
+}
+.center .left i{
+    display: inline-block;
+    height: 74px;
+    background: url("../img/difference.png") no-repeat;
+    width: 193px;
+    border-bottom: 1px solid #bababa;
+}
+.center .left li{
+    float: left;
+    margin-bottom: 37px;
+}
+.center .left li b{
+    display: inline-block;
+    width: 70px;
+    height: 60px;
+    background: url("../img/flower.png") no-repeat;
+}
+.center .cent-left{
+    float: left;
+    margin-left: 140px;
+    height: 882px;
+    border-right:  1px solid #bababa;
+}
+.center .cent-left dt{
+    font-size: 24px;  color: #232323;
+    margin: 26px 0;
+}
+.center .cent-left dd{
+    width: 532px;
+    font-size: 14px;
+    color: #454545;
+    margin: 27px 0;
+    margin-right: 44px;
+}
+.center .cent-right{
+    float: right;
+    margin-right: 130px;
+    margin-top: 20px;
+}
+.center .cent-right h3{
+    font-size: 14px;
+    color: #000000;
+    width: 148px;
+    border-bottom: 1px solid #bababa;
+}
+.center .cent-right dt{
+    font-size: 14px;
+    color: #797979;
+    line-height: 41px;
+}
+.center .cent-right dd{
+    font-size: 12px;
+    color: #595959;
+    line-height: 20px;
+}
+.center .cent-right .text{
+    border-bottom: 1px solid #bababa;
+    margin: 21px;
+}
+.center .cent-bot i{
+    float: left;
+    width: 14px;
+    height: 15px;
+    background: url("../img/mark.png") no-repeat;
+    margin-right: 10px;
+}
+.center .cent-left .cent-bot p{
+    font-size: 14px;
+    color: #e74291;
+    margin: 20px 0;
+}
+.center .cent-left .cent-bot .left dt{
+    height: 20px;
+    width: 200px;
+    font-size: 16px;
+    color: #000000;
+}
+.center .cent-left .cent-bot .left dd{
+    width: 237px;
+    font-size: 14px;
+    color: #505050;
+}
+.center .cent-left .cent-bot .bot{
+    width: 529px;
+    border-top: 1px solid #bababa;
+    margin-top: 20px;
+}
+.center .cent-left .cent-bot .photo{
+    float: right;
+    width: 227px;
+    height: 186px;
+    background-color: #def2d5;
+    padding: 11px;
+    margin:14px 0;
+
+}
+.center .cent-left .cent-bot .photo h5{
+    font-size: 14px;
+    color: #5f8a69;
+}
+.foot {
+    background-color: #f5f5f5;
+    margin-top: 37px;
+}
+.foot .foot-top li{
+    float: left;
+    margin-right:55px;
+}
+.foot .foot-top .one i{
+    display: block;
+    width: 182px;
+    height: 37px;
+    background: url("../img/face.png") no-repeat;
+}
+.foot .foot-top .two i{
+    display: block;
+    width: 212px;
+    height: 37px;
+    background: url("../img/skin.png") no-repeat;
+}
+.foot .foot-top .three i{
+    display: block;
+    width: 191px;
+    height: 37px;
+    background: url("../img/bottle.png") no-repeat;
+}
+.foot .foot-top .four i{
+    display: block;
+    width: 171px;
+    height: 37px;
+    background: url("../img/surpri.png") no-repeat;
+}
+.foot .foot-top .five{
+    margin-right: 0;
+}
+.foot .foot-top .five i{
+    display: block;
+    width: 223px;
+    height: 37px;
+    background: url("../img/fit.png") no-repeat;
+}
+.foot .foot-bot{
+    width: 1204px;
+    border-bottom: 1px solid #bababa;
+}
+.foot .foot-bot .fot-left{
+    float: left;
+    margin-right: 119px;
+}
+.foot .foot-bot .fot-right dl{
+    float: left;
+    margin-right: 108px;
+    margin-top: 20px;
+}
+.foot .foot-bot .fot-right dl dt{
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+    line-height: 31px;
+}
+.foot .foot-bot .fot-right dl dd{
+    font-size: 12px;
+    color: #595959;
+    line-height: 25px;
+}
+.foot .fot-bor{
+    margin: 18px;
+    height: 89px;
+}
+.foot .fot-bor p{
+    font-size: 12px;
+    color: #505050;
+    text-align: center;
+}
+.foot .fot-bor p i{
+    display: inline-block;
+    vertical-align: middle;
+
+    width: 20px;
+    height: 20px;
+    background: url("../img/ques.png") no-repeat;
+}
